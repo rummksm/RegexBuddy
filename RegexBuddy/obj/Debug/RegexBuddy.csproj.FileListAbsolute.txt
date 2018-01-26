@@ -1,0 +1,10 @@
+C:\Users\Maksim\source\repos\RegexBuddy\RegexBuddy\bin\Debug\RegexBuddy.exe.config
+C:\Users\Maksim\source\repos\RegexBuddy\RegexBuddy\bin\Debug\RegexBuddy.exe
+C:\Users\Maksim\source\repos\RegexBuddy\RegexBuddy\bin\Debug\RegexBuddy.pdb
+C:\Users\Maksim\source\repos\RegexBuddy\RegexBuddy\obj\Debug\RegexBuddy.csprojResolveAssemblyReference.cache
+C:\Users\Maksim\source\repos\RegexBuddy\RegexBuddy\obj\Debug\RegexBuddy.Form1.resources
+C:\Users\Maksim\source\repos\RegexBuddy\RegexBuddy\obj\Debug\RegexBuddy.Properties.Resources.resources
+C:\Users\Maksim\source\repos\RegexBuddy\RegexBuddy\obj\Debug\RegexBuddy.csproj.GenerateResource.Cache
+C:\Users\Maksim\source\repos\RegexBuddy\RegexBuddy\obj\Debug\RegexBuddy.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\RegexBuddy\RegexBuddy\obj\Debug\RegexBuddy.exe
+C:\Users\Maksim\source\repos\RegexBuddy\RegexBuddy\obj\Debug\RegexBuddy.pdb
